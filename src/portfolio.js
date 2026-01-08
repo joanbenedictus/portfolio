@@ -11,7 +11,7 @@ const about = {
   picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
 
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I am a fifth-semester Information Systems student with a specialization in Business Intelligence, possessing a strong foundation in data analysis, database management, and data visualization. Experienced in transforming raw data into meaningful insights to support business decision-making. Familiar with BI tools, SQL, and basic data modeling, with a strong interest in analytics-driven solutions and continuous learning.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
